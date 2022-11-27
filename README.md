@@ -12,7 +12,7 @@ cd bash-enc
 
 ## How to use 
 #### Encrypt file : `bash bash-enc.sh -f [file_path]`
-Example : `bash bash-enc.sh -f /sdcard/test.py `
+Example : `bash bash-enc.sh -f /sdcard/test.sh `
 
 
 <div align="center">
